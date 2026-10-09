@@ -28,4 +28,4 @@ java MainBankAkun
 ```
 
 ## Screenshot Hasil
-![Hasil program](hasil.png)
+<img width="712" height="701" alt="Image" src="https://github.com/user-attachments/assets/da63a91a-0e72-4c32-8d70-41d9803a84af" />
